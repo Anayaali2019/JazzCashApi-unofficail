@@ -1,2 +1,7 @@
 # JazzCashApi-unofficail
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/38IEolI8f-w/0.jpg)](https://www.youtube.com/watch?v=38IEolI8f-w)
+#        HOW TO USE
+visit this link for video TUT === >>> 
+DOWNLOAD LINK JAZZAPI SERVER  === >>>
+
+
+NOTE:- THIS IS NON OFFICAIL SYSTEM WE DON'T SAVE ANY OF YOUR PERSON INFORMATION 

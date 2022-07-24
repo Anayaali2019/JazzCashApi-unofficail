@@ -18,4 +18,17 @@ https://jazzcashapi-spnle.run.goorm.io/?TRID={TRID}&amount={AMOUNT}&User={YOUR-R
 MAKE SURE TO REMOVE {}<br>
 <br>
 <br>
-NOTE:- THIS IS NON OFFICAIL SYSTEM WE DON'T SAVE ANY OF YOUR PERSON INFORMATION 
+NOTE:- THIS IS NON OFFICAIL SYSTEM 
+WE DON'T SAVE ANY OF YOUR PERSONAL INFORMATION 
+========{
+App will only work 
+
+jazzcash to jazzcash
+Easypaisa to easypaisa
+
+Cross transfer is not supported beacuse you will 
+Receive different TID 
+
+YOU CAN CREATE EASYPAISA AND JAZZCASH BOTH ACCOUNT 
+ON SAME NUMBER SO APP WILL WORK FOR BOTH PAYMENT METHODS 
+
